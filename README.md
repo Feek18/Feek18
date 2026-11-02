@@ -1,4 +1,3 @@
-```
 # Hi 👋, I'm Fikri Bintang Achmada
 
 ### Frontend Developer & UI/UX Designer · Open to remote roles
@@ -67,4 +66,3 @@ Shipped client-requested features and bug fixes in a team project, optimized CSS
 ### 📫 Let's Connect
 
 Open to remote frontend roles and freelance collaborations. The fastest way to reach me is by [email](mailto:bintangfikri31@gmail.com) or [LinkedIn](https://linkedin.com/in/fikriachmada).
-```
